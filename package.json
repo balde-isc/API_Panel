@@ -1,0 +1,16 @@
+{
+  "name": "api_panel",
+  "version": "1.0.0",
+  "description": "Servicio Rest para la clasificacion de los usuarios",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Baldermar",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3"
+  }
+}
